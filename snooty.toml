@@ -1,0 +1,7 @@
+name = "landing"
+title = "MongoDB Landing"
+
+[constants]
+version = 4.0
+package-name-org = "docs-landing"
+pgp-version = "{+version+}"
